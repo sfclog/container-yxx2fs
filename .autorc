@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "sfclog",
+  "repo": "container-yxx2fs",
+  "name": "sfclog",
+  "email": "sfclog@gmail.com",
+}
